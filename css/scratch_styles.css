@@ -1,0 +1,59 @@
+body{
+    background-color: lightblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.fav{
+    color: black;
+    font-style: italic;
+}
+
+ul{
+    color: grey;
+}
+
+.topic{
+    font-weight: bold;
+}
+
+.header{
+    text-align: center;
+    height: 100 px;
+    background-color: whitesmoke;
+    
+}
+
+nav{
+    overflow: visible;
+    text-align: center;
+    margin-top: 2%;
+}
+
+nav a{
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 20px;
+
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
+
+.body{
+    text-align: left;
+    padding-left: 35%;
+    margin: 0 auto;
+}
+
+.footer{
+    text-align: center;
+    border: 5px solid black;
+    margin: auto;
+}
+
+.tableauPlaceholder{
+    display: flex;
+    justify-content: center;
+    padding-left: 8%;
+}
